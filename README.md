@@ -2,7 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianasouto/)  
 
-![Jubaruto GitHub stats](https://github-readme-stats.vercel.app/api?username=jubaruto&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/jubaruto"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubaruto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubaruto&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ### Tecnologias que eu utilizo
 
